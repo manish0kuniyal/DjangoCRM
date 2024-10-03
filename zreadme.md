@@ -1,0 +1,3 @@
+ - create a project `django-admin startproject django1`
+ - start a server `python manage.py runserver`
+ - start an app to wrok on -  `python manage.py startapp challanges`
